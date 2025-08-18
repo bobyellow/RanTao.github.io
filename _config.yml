@@ -13,12 +13,12 @@ title                    : "陶然学术主页"
 title_separator          : "-"
 name                     : &name "Ran Tao 陶然"
 description              : &description "personal description"
-url                      : “https://bobyellow.github.io/RanTao.github.io” # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bobyellow/RanTao.github.io"
+#url                      : “https://bobyellow.github.io/RanTao.github.io” # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#repository               : "bobyellow/RanTao.github.io"
 
-#url                      : "https://bobyellow.github.io"
-#baseurl                  : "/RanTao.github.io"     # repo name with a leading slash
+url                      : "https://bobyellow.github.io"
+baseurl                  : "/RanTao.github.io"     # repo name with a leading slash
 #repository               : "https://github.com/bobyellow/RanTao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
