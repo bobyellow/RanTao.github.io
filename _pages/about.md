@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "陶然 个人简介"
 author_profile: true
 redirect_from: 
   - /about/
@@ -28,5 +28,5 @@ redirect_from:
 
 2012-2017: 美国北卡罗来纳大学夏洛特分校，地理与城市区域分析，博士
 
-2008-2012: 武汉大学，遥感科学与技术，学士
+2008-2012: 武汉大学，遥感科学与技术，本科
 
