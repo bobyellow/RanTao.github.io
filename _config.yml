@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Tao_headshot_2022.jpeg"
+  avatar           : /images/Tao_headshot_2022.jpeg
   name             : "Ran Tao 陶然"
   pronouns         : # example: "she/her"  
   bio              : "Professor of GIScience"
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
